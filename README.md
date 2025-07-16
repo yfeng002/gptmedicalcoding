@@ -6,8 +6,6 @@ python3 generate_prompt.py <task_no>
 ```
 + options of <task_no> be 1, 2 or 3.
 
-+ drg_34_dissection.csv contains the 30 most frequent DRG codes and description in MIMIC-IV from https://github.com/hanyin88/DRG-LLaMA
-
 ### Requirements
 ```cmd
 + numpy==2.3.1
